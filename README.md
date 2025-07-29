@@ -17,6 +17,6 @@ HTML.
 1. Crear un proyecto en Django en un entorno virtual y una aplicación.
 (2 Puntos) OK
 2. Generar la vista, url y template para mostrar la información en la web.
-(4 Puntos)
+(4 Puntos) OK
 3. Pasar mediante contexto a la vista el listado de nombres con los empleados.
-(4 Puntos)
+(4 Puntos) OK
